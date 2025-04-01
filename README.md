@@ -42,7 +42,6 @@ JobLeap提供了模拟面试工具，可以帮助您更好地准备面试。
 - **光线传媒**：[https://m.ewang.com/hr/recruit/list](https://m.ewang.com/hr/recruit/list)  
 - **工商银行**：[https://job.icbc.com.cn/pc/index.html#/main/home](https://job.icbc.com.cn/pc/index.html#/main/home)  
 - **凤凰网**：[https://career.ifeng.com/job/recruit/0/](https://career.ifeng.com/job/recruit/0/)
-- **抖音小游戏**：[https://microapp.bytedance.com/](https://microapp.bytedance.com/)
 - **爱立信**：[https://jobs.ericsson.com/careers](https://jobs.ericsson.com/careers)
 - **软媒**：[https://www.ruanmei.com/joinus.htm](https://www.ruanmei.com/joinus.htm)
 - **中国日报网**：高级JAVA程序员岗位，具体信息请访问[中国日报网招聘门户](https://chinadailywebsite.zhiye.com)。
