@@ -47,8 +47,7 @@
 #### **开源项目和作品**
 - **开源项目**：
   - [STU](https://github.com/yourname/projectname)：简要说明，Star和Fork数。
-- **技术文章**：
-  - [云计算的前生今世](http://get..com/706.get)
+  
 
 #### **技能清单**
 - **Java相关**：Java、Spring、Hibernate、MyBatis
